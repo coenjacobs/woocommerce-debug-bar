@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: WooCommerce Debug Bar
-Description: Adds a WooCommerce debug panel to the Debug Bar plugin.
+Description: Adds a WooCommerce debug panel to the Debug Bar plugin. Requires the Debug Bar plugin to function.
 Author: Coen Jacobs
 Author URI: http://coenjacobs.me
 Version: 0.1
