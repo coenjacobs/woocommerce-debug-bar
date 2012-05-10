@@ -1,4 +1,28 @@
-.debug-bar-woocommerce-box h3 {
-	font-family: georgia,times,serif;
+.wc-debug-bar-box h3,
+.wc-debug-bar-box h4 {
+	font-family: Georgia, Times, Serif;
+	padding: 0 0 5px 0;
+}
+
+.wc-debug-bar-box h3 {
 	font-size: 22px;
+}
+
+.wc-debug-bar-box h4 {
+	font-size: 18px;
+}
+
+a#wc-debug-bar-show-products,
+a#wc-debug-bar-hide-products {
+	display: none;
+}
+
+#wc-debug-bar-products-table th {
+	font-weight: bold;
+	padding: 0 5px;
+}
+
+#wc-debug-bar-products-table td {
+	border: #333 1px solid;
+	padding: 5px;
 }
